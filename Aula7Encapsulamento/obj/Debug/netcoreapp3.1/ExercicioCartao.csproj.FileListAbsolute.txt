@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\bin\Debug\netcoreapp3.1\ExercicioCartao.exe
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\bin\Debug\netcoreapp3.1\ExercicioCartao.deps.json
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\bin\Debug\netcoreapp3.1\ExercicioCartao.runtimeconfig.json
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\bin\Debug\netcoreapp3.1\ExercicioCartao.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\bin\Debug\netcoreapp3.1\ExercicioCartao.dll
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\bin\Debug\netcoreapp3.1\ExercicioCartao.pdb
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\obj\Debug\netcoreapp3.1\ExercicioCartao.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\obj\Debug\netcoreapp3.1\ExercicioCartao.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\obj\Debug\netcoreapp3.1\ExercicioCartao.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\obj\Debug\netcoreapp3.1\ExercicioCartao.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\obj\Debug\netcoreapp3.1\ExercicioCartao.dll
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\obj\Debug\netcoreapp3.1\ExercicioCartao.pdb
+C:\Users\Gabriel\Desktop\senai\ExercicioCartao\obj\Debug\netcoreapp3.1\ExercicioCartao.genruntimeconfig.cache
