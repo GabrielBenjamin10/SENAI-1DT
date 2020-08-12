@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\bin\Debug\netcoreapp3.1\Aula11OverLoad.exe
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\bin\Debug\netcoreapp3.1\Aula11OverLoad.deps.json
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\bin\Debug\netcoreapp3.1\Aula11OverLoad.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\bin\Debug\netcoreapp3.1\Aula11OverLoad.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\bin\Debug\netcoreapp3.1\Aula11OverLoad.dll
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\bin\Debug\netcoreapp3.1\Aula11OverLoad.pdb
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\obj\Debug\netcoreapp3.1\Aula11OverLoad.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\obj\Debug\netcoreapp3.1\Aula11OverLoad.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\obj\Debug\netcoreapp3.1\Aula11OverLoad.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\obj\Debug\netcoreapp3.1\Aula11OverLoad.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\obj\Debug\netcoreapp3.1\Aula11OverLoad.dll
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\obj\Debug\netcoreapp3.1\Aula11OverLoad.pdb
+C:\Users\Gabriel\Desktop\SENAI\Aula11OverLoad\obj\Debug\netcoreapp3.1\Aula11OverLoad.genruntimeconfig.cache
