@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\Ifood\bin\Debug\netcoreapp3.1\Ifood.exe
+C:\Users\Gabriel\Desktop\SENAI\Ifood\bin\Debug\netcoreapp3.1\Ifood.deps.json
+C:\Users\Gabriel\Desktop\SENAI\Ifood\bin\Debug\netcoreapp3.1\Ifood.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\Ifood\bin\Debug\netcoreapp3.1\Ifood.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\Ifood\bin\Debug\netcoreapp3.1\Ifood.dll
+C:\Users\Gabriel\Desktop\SENAI\Ifood\bin\Debug\netcoreapp3.1\Ifood.pdb
+C:\Users\Gabriel\Desktop\SENAI\Ifood\obj\Debug\netcoreapp3.1\Ifood.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\Ifood\obj\Debug\netcoreapp3.1\Ifood.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Ifood\obj\Debug\netcoreapp3.1\Ifood.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\Ifood\obj\Debug\netcoreapp3.1\Ifood.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Ifood\obj\Debug\netcoreapp3.1\Ifood.dll
+C:\Users\Gabriel\Desktop\SENAI\Ifood\obj\Debug\netcoreapp3.1\Ifood.pdb
+C:\Users\Gabriel\Desktop\SENAI\Ifood\obj\Debug\netcoreapp3.1\Ifood.genruntimeconfig.cache
