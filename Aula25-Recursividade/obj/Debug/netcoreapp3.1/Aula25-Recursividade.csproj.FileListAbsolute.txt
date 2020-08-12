@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Recursividade.exe
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Recursividade.deps.json
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Recursividade.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Recursividade.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Recursividade.dll
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Recursividade.pdb
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Recursividade.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Recursividade.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Recursividade.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Recursividade.dll
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Recursividade.pdb
+C:\Users\Gabriel\Desktop\SENAI\Aula25-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Recursividade.genruntimeconfig.cache
