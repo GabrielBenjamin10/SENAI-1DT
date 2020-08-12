@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\bin\Debug\netcoreapp3.1\AulaTryCash.exe
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\bin\Debug\netcoreapp3.1\AulaTryCash.deps.json
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\bin\Debug\netcoreapp3.1\AulaTryCash.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\bin\Debug\netcoreapp3.1\AulaTryCash.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\bin\Debug\netcoreapp3.1\AulaTryCash.dll
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\bin\Debug\netcoreapp3.1\AulaTryCash.pdb
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\obj\Debug\netcoreapp3.1\AulaTryCash.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\obj\Debug\netcoreapp3.1\AulaTryCash.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\obj\Debug\netcoreapp3.1\AulaTryCash.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\obj\Debug\netcoreapp3.1\AulaTryCash.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\obj\Debug\netcoreapp3.1\AulaTryCash.dll
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\obj\Debug\netcoreapp3.1\AulaTryCash.pdb
+C:\Users\Gabriel\Desktop\SENAI\AulaTryCash\obj\Debug\netcoreapp3.1\AulaTryCash.genruntimeconfig.cache
