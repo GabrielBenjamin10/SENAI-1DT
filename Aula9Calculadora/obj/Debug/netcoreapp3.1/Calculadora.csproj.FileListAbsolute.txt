@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Gabriel\Desktop\SENAI\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
