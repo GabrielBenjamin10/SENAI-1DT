@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\Aula19\bin\Debug\netcoreapp3.1\Aula19.exe
+C:\Users\Gabriel\Desktop\SENAI\Aula19\bin\Debug\netcoreapp3.1\Aula19.deps.json
+C:\Users\Gabriel\Desktop\SENAI\Aula19\bin\Debug\netcoreapp3.1\Aula19.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\Aula19\bin\Debug\netcoreapp3.1\Aula19.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\Aula19\bin\Debug\netcoreapp3.1\Aula19.dll
+C:\Users\Gabriel\Desktop\SENAI\Aula19\bin\Debug\netcoreapp3.1\Aula19.pdb
+C:\Users\Gabriel\Desktop\SENAI\Aula19\obj\Debug\netcoreapp3.1\Aula19.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula19\obj\Debug\netcoreapp3.1\Aula19.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula19\obj\Debug\netcoreapp3.1\Aula19.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\Aula19\obj\Debug\netcoreapp3.1\Aula19.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula19\obj\Debug\netcoreapp3.1\Aula19.dll
+C:\Users\Gabriel\Desktop\SENAI\Aula19\obj\Debug\netcoreapp3.1\Aula19.pdb
+C:\Users\Gabriel\Desktop\SENAI\Aula19\obj\Debug\netcoreapp3.1\Aula19.genruntimeconfig.cache
