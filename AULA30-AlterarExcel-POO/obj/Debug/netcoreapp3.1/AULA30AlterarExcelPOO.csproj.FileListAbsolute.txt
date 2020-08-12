@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\bin\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.exe
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\bin\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.deps.json
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\bin\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\bin\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\bin\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.dll
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\bin\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.pdb
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\obj\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\obj\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\obj\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\obj\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\obj\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.dll
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\obj\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.pdb
+C:\Users\Gabriel\Desktop\SENAI\AULA30AlterarExcelPOO\obj\Debug\netcoreapp3.1\AULA30AlterarExcelPOO.genruntimeconfig.cache

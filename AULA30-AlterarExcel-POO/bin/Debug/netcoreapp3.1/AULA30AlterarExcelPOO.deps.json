@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AULA30AlterarExcelPOO/1.0.0": {
+        "runtime": {
+          "AULA30AlterarExcelPOO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AULA30AlterarExcelPOO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
