@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\bin\Debug\netcoreapp3.1\ProjetoWppConsole.exe
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\bin\Debug\netcoreapp3.1\ProjetoWppConsole.deps.json
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\bin\Debug\netcoreapp3.1\ProjetoWppConsole.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\bin\Debug\netcoreapp3.1\ProjetoWppConsole.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\bin\Debug\netcoreapp3.1\ProjetoWppConsole.dll
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\bin\Debug\netcoreapp3.1\ProjetoWppConsole.pdb
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\obj\Debug\netcoreapp3.1\ProjetoWppConsole.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\obj\Debug\netcoreapp3.1\ProjetoWppConsole.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\obj\Debug\netcoreapp3.1\ProjetoWppConsole.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\obj\Debug\netcoreapp3.1\ProjetoWppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\obj\Debug\netcoreapp3.1\ProjetoWppConsole.dll
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\obj\Debug\netcoreapp3.1\ProjetoWppConsole.pdb
+C:\Users\Gabriel\Desktop\SENAI\ProjetoWppConsole\obj\Debug\netcoreapp3.1\ProjetoWppConsole.genruntimeconfig.cache
