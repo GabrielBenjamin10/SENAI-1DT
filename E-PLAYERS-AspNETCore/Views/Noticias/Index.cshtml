@@ -1,0 +1,60 @@
+@model Noticias
+@{
+    ViewData[ "Title"] = "Noticias";
+}
+ <div class="titulo_pagina">
+            <h1>Inserir @ViewData["Title"]</h1>
+</div>
+
+<form class="cadastro" method="POST" action='@Url.Action("Publicar")' enctype="multipart/form-data">
+    
+    <div class="campo">
+    <label for="IdNoticia">ID</label>
+    <input type="text" name="IdNoticia" id="IdNoticia"/>
+    </div>
+
+    <div class="campo">
+    <label for="Titulo">Título</label>
+    <input type="text" name="Titulo" id="Titulo"/>
+    </div>
+    
+    <div class="campo">
+    <label for="Imagem">Imagem</label>
+    <input type="file" name="Imagem" id="Imagem"/>
+    </div>
+
+    <div class="campo">
+    <label for="Texto">Texto</label>
+    <input  type="text" name="Texto" id="Texto"/>
+    </div>
+
+    <button class="gradient btn" type="submit">Publicar</button>
+
+</form>
+
+<table >
+    <thead>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Imagem</th>
+        <th>Texto</th>
+    </thead>
+    <tbody>
+        @foreach(Noticias n in ViewBag.Noticias){
+            <tr>
+                <td>@n.IdNoticia</td>
+                <td>@n.Titulo</td>
+                <td>
+                    <img src="img/Noticias/@n.Imagem" alt="Imagem referente à @n.Titulo">
+                </td>
+                <td>@n.Texto</td>
+                <td>
+                    <a asp-controller = "Noticias" asp-action = "Excluir" asp-route-id= "@n.IdNoticia">
+                        <i class="fas fa-trash" ></i>
+                     </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

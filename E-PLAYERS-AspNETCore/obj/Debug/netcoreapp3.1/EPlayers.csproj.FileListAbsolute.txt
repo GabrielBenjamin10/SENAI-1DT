@@ -1,0 +1,76 @@
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\EPlayers.exe
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\EPlayers.deps.json
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\EPlayers.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\EPlayers.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\EPlayers.dll
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\EPlayers.pdb
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\EPlayers.Views.dll
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\bin\Debug\netcoreapp3.1\EPlayers.Views.pdb
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.RazorAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.RazorAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.TagHelpers.input.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.TagHelpers.output.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.RazorCoreGenerate.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.RazorTargetAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.Views.pdb
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.dll
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.pdb
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\EPlayers.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\Razor\Views\Equipes\Index.cshtml.g.cs
+C:\Users\Gabriel\Desktop\SENAI\EPlayers\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\EPlayers.exe
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\EPlayers.deps.json
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\EPlayers.runtimeconfig.json
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\EPlayers.runtimeconfig.dev.json
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\EPlayers.dll
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\EPlayers.pdb
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\EPlayers.Views.dll
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\bin\Debug\netcoreapp3.1\EPlayers.Views.pdb
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.AssemblyInfo.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.TagHelpers.input.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.TagHelpers.output.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipes\Index.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.Views.pdb
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers.StaticWebAssets.xml
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.dll
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.pdb
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.genruntimeconfig.cache
+C:\Users\admin\Desktop\SENAI\SENAI 1 TERMO\E-PLAYERS-AspNETCore\obj\Debug\netcoreapp3.1\EPlayers.csproj.CopyComplete
