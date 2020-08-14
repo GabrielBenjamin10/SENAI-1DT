@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\bin\Debug\netcoreapp3.1\ProjetoUber.exe
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\bin\Debug\netcoreapp3.1\ProjetoUber.deps.json
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\bin\Debug\netcoreapp3.1\ProjetoUber.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\bin\Debug\netcoreapp3.1\ProjetoUber.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\bin\Debug\netcoreapp3.1\ProjetoUber.dll
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\bin\Debug\netcoreapp3.1\ProjetoUber.pdb
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\obj\Debug\netcoreapp3.1\ProjetoUber.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\obj\Debug\netcoreapp3.1\ProjetoUber.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\obj\Debug\netcoreapp3.1\ProjetoUber.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\obj\Debug\netcoreapp3.1\ProjetoUber.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\obj\Debug\netcoreapp3.1\ProjetoUber.dll
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\obj\Debug\netcoreapp3.1\ProjetoUber.pdb
+C:\Users\Gabriel\Desktop\SENAI\ProjetoUber\obj\Debug\netcoreapp3.1\ProjetoUber.genruntimeconfig.cache
