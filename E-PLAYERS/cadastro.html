@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-PLAYERS</title>
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/525a7ba6e9.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="container">
+            <div>
+                <i class="fas fa-bars"></i>
+                <a href="index.html" title="Acessar a página inicial do site">
+                    <img src="images/Logo.svg" alt="Logo do site E-PLAYERS">
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html" title="acessar página inicial">Início</a></li>
+                    <li><a href="#sobre" title="acessar sessão sobre o projeto">sobre</a></li>
+                    <li><a href="#noticias" title="acessar sessão de notícias">notícias</a></li>
+                    <li><a href="cadastro.html" title="acessar página de cadastro">cadastre-se</a></li>
+                    <li><a href="login.html" title="acessar página de login">login</a></li>
+                    <li>
+                        <a href="#" title="realizar busca no site">
+                            <i class="fas fa-search"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="partidas">
+            <div class="container">
+
+                <div class="partida">
+                    <h2>Partidas em andamento</h2>
+                    <div>
+                        <strong>FLA</strong>
+                        <img src="images/FLA.png" alt="escudo do flamengo">
+                        <i>VS</i>
+                        <img src="images/SK.png" alt="escudo sk">
+                        <strong>SK</strong>
+                    </div>
+                    <i class="fas fa-circle red"></i> AO VIVO
+                </div>
+
+                <div class="partida">
+                    <h2>Próximas Partidas</h2>
+                    <div>
+                        <strong>FLA</strong>
+                        <img src="images/FLA.png" alt="escudo do flamengo">
+                        <i>VS</i>
+                        <img src="images/SK.png" alt="escudo sk">
+                        <strong>SK</strong>
+                    </div>
+                    12:00h
+                </div>
+
+                <div class="partida">
+                    <div>
+                        <strong>FLA</strong>
+                        <img src="images/FLA.png" alt="escudo do flamengo">
+                        <i>VS</i>
+                        <img src="images/SK.png" alt="escudo sk">
+                        <strong>SK</strong>
+                    </div>
+                    12:00h
+                </div>
+
+                <div class="partida">
+                    <div>
+                        <strong>FLA</strong>
+                        <img src="images/FLA.png" alt="escudo do flamengo">
+                        <i>VS</i>
+                        <img src="images/SK.png" alt="escudo sk">
+                        <strong>SK</strong>
+                    </div>
+                    12:00h
+                </div>
+
+                <div class="partida">
+                    <div>
+                        <strong>FLA</strong>
+                        <img src="images/FLA.png" alt="escudo do flamengo">
+                        <i>VS</i>
+                        <img src="images/SK.png" alt="escudo sk">
+                        <strong>SK</strong>
+                    </div>
+                    12:00h
+                </div>
+            </div>
+        </section>
+        <!-- fim da section partidas -->
+
+        <!-- Inserção de formulário -->
+        <div class="cadastro">
+            <h1>Cadastro de Jogador</h1>
+        </div>
+
+        <form action="" method="GET" class="form-cadastro">
+            <div class="campo">
+                <label for="nome">Nome do Jogador</label>
+                <input type="text" name="nomejogador" id="nome">
+            </div>
+
+            <div class="campo">
+                <label for="nick">Nick do Jogador</label>
+                <input type="text" name="nickjogador" id="nick">
+            </div>
+
+            <div class="campo">
+                <label for="email2">Email do Jogador</label>
+                <input type="email2" name="emailjogador" id="email2">
+            </div>
+            <div class="campo">
+                <label for="senha">Senha do Jogador</label>
+                <input type="password" name="senhajogador" id="senha">
+            </div>
+
+            <div class="campo">
+                <label for="confirmarsenha">Confirme sua Senha</label>
+                <input type="password" name="confirmarsenha" id="confirmarsenha">
+            </div>
+
+            <div class="campo">
+                <label for="data">Data de Nascimento</label>
+                <input type="date" name="data" id="data" min="1900-01-01" max="2020-03-05">
+            </div>
+
+            <div class="campo">
+                <label for="pais">Pais</label>
+                <select name="pais" id="pais">
+                    <option value="BR">Brasil</option>
+                    <option value="JPN">Japão</option>
+                    <option value="SA">South Africa</option>
+                    <option value="US">United States</option>
+                </select>
+            </div>
+
+            <div class="campo">
+                <fieldset>
+
+                    <legend>Sexo</legend>
+                    <input type="radio" name="sexo" id="masculino">
+                    <label for="masculino">Masculino</label>
+
+                    <input type="radio" name="sexo" id="feminino">
+                    <label for="feminino">Feminino</label>
+
+                    <input type="radio" name="sexo" id="outro">
+                    <label for="outros">Outros</label>
+
+                </fieldset>
+            </div>
+
+            <div class="campo">
+                <input type="checkbox" name="termos" id="termos">
+                <label for="termos">Li e aceito os termos de uso do site</label>
+            </div>
+
+            <div class="campo">
+                <button type="submit" class="btn gradient">Cadastrar</button>
+            </div>
+            </div>
+
+
+        </form>
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <nav>
+                <h3>Páginas</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="cadastro.html">Cadastre-se</a></li>
+                    <li><a href="#">Campeonatos</a></li>
+                    <li><a href="#">Política de Privacidade</a></li>
+                    <li><a href="#">Fale Conosco</a></li>
+                </ul>
+            </nav>
+            <div>
+                <img src="images/Logo.svg" alt="logo do projeto E-PLAYERS">
+                <div class="sociais">
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-youtube"></i>
+                </div>
+            </div>
+
+            <form action="#" method="GET">
+                <label for="email">Entre para Lista VIP</label>
+                <div>
+                    <input type="email" id="email" name="email_usario">
+                    <button type="submit" class="gradient btn">ENVIAR</button>
+                </div>
+            </form>
+
+        </div><!-- fim container -->
+
+        <p>
+            © COPYRIGHT - Todos os direitos reservados - SENAI de Informática - E-Sports
+        </p>
+    </footer>
+
+</body>
+
+</html>
