@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.exe
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.deps.json
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.dll
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.pdb
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.dll
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.pdb
+C:\Users\Gabriel\Desktop\SENAI\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.genruntimeconfig.cache
