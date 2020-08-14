@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\bin\Debug\netcoreapp3.1\MVCconsolePOO.exe
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\bin\Debug\netcoreapp3.1\MVCconsolePOO.deps.json
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\bin\Debug\netcoreapp3.1\MVCconsolePOO.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\bin\Debug\netcoreapp3.1\MVCconsolePOO.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\bin\Debug\netcoreapp3.1\MVCconsolePOO.dll
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\bin\Debug\netcoreapp3.1\MVCconsolePOO.pdb
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\obj\Debug\netcoreapp3.1\MVCconsolePOO.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\obj\Debug\netcoreapp3.1\MVCconsolePOO.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\obj\Debug\netcoreapp3.1\MVCconsolePOO.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\obj\Debug\netcoreapp3.1\MVCconsolePOO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\obj\Debug\netcoreapp3.1\MVCconsolePOO.dll
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\obj\Debug\netcoreapp3.1\MVCconsolePOO.pdb
+C:\Users\Gabriel\Desktop\SENAI\MVCconsolePOO\obj\Debug\netcoreapp3.1\MVCconsolePOO.genruntimeconfig.cache
