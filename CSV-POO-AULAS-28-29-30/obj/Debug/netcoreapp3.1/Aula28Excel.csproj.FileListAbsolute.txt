@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\bin\Debug\netcoreapp3.1\Aula28Excel.exe
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\bin\Debug\netcoreapp3.1\Aula28Excel.deps.json
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\bin\Debug\netcoreapp3.1\Aula28Excel.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\bin\Debug\netcoreapp3.1\Aula28Excel.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\bin\Debug\netcoreapp3.1\Aula28Excel.dll
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\bin\Debug\netcoreapp3.1\Aula28Excel.pdb
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\obj\Debug\netcoreapp3.1\Aula28Excel.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\obj\Debug\netcoreapp3.1\Aula28Excel.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\obj\Debug\netcoreapp3.1\Aula28Excel.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\obj\Debug\netcoreapp3.1\Aula28Excel.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\obj\Debug\netcoreapp3.1\Aula28Excel.dll
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\obj\Debug\netcoreapp3.1\Aula28Excel.pdb
+C:\Users\Gabriel\Desktop\SENAI\Aula28Excel\obj\Debug\netcoreapp3.1\Aula28Excel.genruntimeconfig.cache
